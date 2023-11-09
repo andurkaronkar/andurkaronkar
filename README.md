@@ -11,11 +11,9 @@
 
 - 🌱 I’m currently learning **in AI & DS**
 
-- 📝 I regularly write articles on [webkii.com](webkii.com)
 
 - 📫 How to reach me **andurkaronkar@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
