@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/andurkaronkar" target="blank"><img src="https://img.shields.io/twitter/follow/andurkaronkar?logo=twitter&style=for-the-badge" alt="andurkaronkar" /></a> </p>
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **JS**
 
 - 🌱 I’m currently learning **in AI & DS**
 
