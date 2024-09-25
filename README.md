@@ -64,8 +64,7 @@
     <ul>
       <li>Developed and maintained a web portal with PHP and MySQL, following best practices and secure coding standards.</li>
       <li>Applied Agile methodologies and maintained proactive communication to ensure project deadlines were met.</li>
-      
-    </ul>
+   </ul>
   </li>
   <li><strong>Exposys Data Labs</strong> - <em>Data Science Intern</em> (Oct 2023)
     <ul>
