@@ -40,7 +40,7 @@
 <h4 align="left">Databases:</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </p>
 
 
@@ -55,7 +55,7 @@
   <li><strong>Employee Health Tracking</strong> - <em>PHP, MySQL, CodeIgniter</em> - <a href="https://isonweb.tech/">Link</a></li>
   <li><strong>Nagnath Multi-Finance Web Portal</strong> - <em>PHP, MySQL, CodeIgniter</em> - <a href="https://admin.nagnathfinance.in/">Link</a></li>
   <li><strong>Covid-19 Patient Management System</strong> - <em>Java, Java Swing, MySQL, JDBC</em></li>
-  <li><strong>WordPress Role Authentication Plugin</strong> - <em>PHP, MySQL</em> - <a href="https://hyundaicebrandshop.net">Link</a></li>
+ 
 </ul>
 
 <h3 align="left">Internships & Training:</h3>
@@ -64,7 +64,7 @@
     <ul>
       <li>Developed and maintained a web portal with PHP and MySQL, following best practices and secure coding standards.</li>
       <li>Applied Agile methodologies and maintained proactive communication to ensure project deadlines were met.</li>
-      <li>Created a WordPress plugin for role authentication, enhancing security and access control on the website <a href="https://hyundaicebrandshop.net">Link</a>.</li>
+      
     </ul>
   </li>
   <li><strong>Exposys Data Labs</strong> - <em>Data Science Intern</em> (Oct 2023)
