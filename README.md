@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onkar Andurkar</h1>
-<h3 align="center">Tech Enthusiast | Backend Developer | AI-Powered Productivity Builder</h3>
+<h3 align="center">Machine Learning & Software Engineer | AI Enthusiast | Building Scalable Solutions</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
@@ -13,76 +13,108 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **AI-integrated web apps**
-- 🌱 I’m pursuing a **Bachelor's in AI & Data Science**
-- 💡 Actively exploring **Ruby** , **ROR** and many more...
+- 🔭 I'm currently working on **AI-integrated applications and Generative AI projects**
+- 🎓 Pursuing **B.E. in Artificial Intelligence and Data Science** at Dr. D. Y. Patil College Of Engineering, Pune
+- 🌱 Actively exploring **LLMs, RAG, Cloud Platforms** and **Next.js**
+- 🏆 **Top 15** at Google Agentic AI Day 2025 (Bangalore) - AI multi-agent system for farmer assistance.
 - 📫 Reach me at **andurkaronkar@gmail.com**
 
 ---
-
 
 ### 🛠 Languages and Tools:
 
 #### Programming Languages:
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+</p>
+
+#### AI/ML & Data Science:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </p>
 
 #### Web Development:
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
 </p>
 
-#### Databases:
+#### Databases & Cloud:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
-</p>
-
-#### Design Tools:
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+  <img src="https://github.com/supabase/supabase/blob/master/apps/www/public/images/supabase-logo-icon.png" width="40" height="40"/>
 </p>
 
 ---
 
-### 💼 Top Projects:
-
-- 🔹 [**Employee Health Tracking**](http://healthcard.anandhealthcare.org) – *PHP, MySQL, CodeIgniter*  
-  A portal for digitized health card generation and medical report tracking with QR code support.
-
-- 🔹 [**Nagnath Multi-Finance Web Portal**](https://admin.nagnathfinance.in/) – *PHP, MySQL, CodeIgniter*  
-  Developed modules for account management, FD tracking, and EMI calculations.
-
-- 🔹 **Covid-19 Patient Management System** – *Java, Java Swing, MySQL*  
-  Local desktop application for patient record management using JDBC.
-
-- 🔹 **AI Chatbot for Client Support** – *Ruby , OpenAI API*  
-  Built a chatbot capable of intelligent responses, integrated with OpenAI API.  
-  🛠 Used **Cursor AI** for rapid backend scaffolding, input handling, and testing.
-
-- 🔹 [**Braindock – AI Workspace**](https://braindock.in) – *React, OpenAI API*  
-  Contributed to an AI-powered productivity suite (draw, code, write, video learning).  
-  🚀 Built API modules for timers, YouTube embedding, and AI chat with **Cursor AI** support.
+### 🏆 Key Achievements:
+- 🥇 **Top 15** – Google Agentic AI Day 2025 (Bangalore) – AI multi-agent system with RAG pipelines for agricultural assistance
+- 🏆 **Winner** – Technical Quiz at Wiso-Tech 2K22
+- 🎯 **Finalist** – INNOVATIVE MITCORER Hackathon 2024
 
 ---
 
-### 🧑‍💻 Internships & Training:
+### 💼 Featured Projects:
 
-- **Dev Kind Technologies LLP** – *Software Intern* (Jan 2024 – Mar 2024)  
-  Built secure PHP portals with MySQL and agile collaboration.
+#### 🤖 **AI-Driven Cattle Disease Classification**
+*Python, TensorFlow, CNN*
+- Built CNN classifier for cattle diseases (LSD, FMD, IBK) using image datasets
+- Implemented data preprocessing, augmentation, and hyperparameter tuning
+- Developed complete ML pipeline with deployment planning
 
-- **Exposys Data Labs** – *Data Science Intern* (Oct 2023)  
-  Early-Stage Diabetes Prediction using ML models and data analysis.
+#### 💰 **AI Finance Platform** 
+*Next.js, Gemini API, Supabase*
+- Personal finance dashboard with AI-powered receipt scanning
+- Smart categorization and auto-generated reports
+- Backend pipelines using Supabase + Prisma
 
-- **Sumago Infotech Pvt Ltd** – *Industrial Training* (Jul 2021 – Aug 2021)  
-  Web development training using HTML, CSS, JS, and PHP.
+#### 🏥 **Covid-19 Patient Management System**
+*Java, MySQL, JDBC*
+- Real-time patient record management system
+- Optimized SQL queries for faster healthcare data retrieval
+
+#### 🏢 **Nagnath Multi-Finance Web Portal**
+*PHP, MySQL*
+- Web portal for account management and loan EMI tracking
+- User authentication and secure data handling
 
 ---
 
+### 💼 Professional Experience:
+
+#### **Dev Kind Technologies LLP** | *Software Intern* 
+*Jan. 2024 – Mar. 2024*
+- Developed secure web portal using PHP and MySQL
+- Optimized SQL queries for enhanced database performance
+- Integrated Python scripts for automation workflows
+
+#### **Sumago Infotech Pvt Ltd** | *Industrial Training*
+*Jul. 2021 – Aug. 2021*
+- Applied Agile methodologies in system design and implementation
+- Hands-on experience in software development practices
+
+---
+
+### 🤝 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/andurkaronkar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andurkaronkar" height="30" width="40" />
+  </a>
+  <a href="https://github.com/andurkaronkar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="andurkaronkar" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+⭐ **"Passionate about building efficient, scalable, and impactful AI solutions"**
