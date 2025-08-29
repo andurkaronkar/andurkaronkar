@@ -52,7 +52,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-  <img src="https://github.com/supabase/supabase/blob/master/apps/www/public/images/supabase-logo-icon.png" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" height="40"/>
 </p>
 
 ---
