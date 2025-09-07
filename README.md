@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onkar Andurkar</h1>
-<h3 align="center">Machine Learning & Software Engineer | AI Enthusiast | Building Scalable Solutions</h3>
+<h3 align="center">Software Engineer | AI Enthusiast </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
@@ -8,15 +8,16 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/andurkaronkar" target="blank">
-    <img src="https://img.shields.io/twitter/follow/andurkaronkar?logo=twitter&style=for-the-badge" alt="andurkaronkar" />
-  </a>
+  <a href="https://x.com/andurkaronkar"><img src="https://img.shields.io/badge/X-andurkaronkar-000000?style=for-the-badge&logo=X)" alt="andurkaronkar" /></a>
+  <a href="https://peerlist.io/andurkaronkar"><img src="https://img.shields.io/badge/Peerlist-andurkaronkar-00AB46?style=for-the-badge&&logo=peerlist" alt="andurkaronkar-peerlist"/></a>
+  <a href="https://www.linkedin.com/in/andurkaronkar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" /></a>
 </p>
 
+
 - 🔭 I'm currently working on **AI-integrated applications and Generative AI projects**
-- 🎓 Pursuing **B.E. in Artificial Intelligence and Data Science** at Dr. D. Y. Patil College Of Engineering, Pune
+- 🎓 **B.E. in Artificial Intelligence and Data Science** 
 - 🌱 Actively exploring **LLMs, RAG, Cloud Platforms** and **Next.js**
-- 🏆 **Top 15** at Google Agentic AI Day 2025 (Bangalore) - AI multi-agent system for farmer assistance.
+- 🏆 **Top 15**(AgriTech Domain) at Google Agentic AI Day 2025 (Bangalore) - AI multi-agent system for farmer assistance.
 - 📫 Reach me at **andurkaronkar@gmail.com**
 
 ---
@@ -28,7 +29,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
 
 #### AI/ML & Data Science:
@@ -41,16 +41,20 @@
 
 #### Web Development:
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  
 </p>
 
 #### Databases & Cloud:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" height="40"/>
 </p>
@@ -58,7 +62,7 @@
 ---
 
 ### 🏆 Key Achievements:
-- 🥇 **Top 15** – Google Agentic AI Day 2025 (Bangalore) – AI multi-agent system with RAG pipelines for agricultural assistance
+- 🥇 **Top 15** – Google Agentic AI Day 2025 (Bangalore) – AI multi-agent system for agricultural assistance
 - 🏆 **Winner** – Technical Quiz at Wiso-Tech 2K22
 - 🎯 **Finalist** – INNOVATIVE MITCORER Hackathon 2024
 
@@ -117,4 +121,4 @@
 
 ---
 
-⭐ **"Passionate about building efficient, scalable, and impactful AI solutions"**
+⭐ **Debugging is only skill you need ```{success:true}```**
