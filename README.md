@@ -82,7 +82,7 @@
 - Smart categorization and auto-generated reports
 - Backend pipelines using Supabase + Prisma
 
-#### 🏥 **Covid-19 Patient Management System**
+#### 🏥 **Patient Management System**
 *Java, MySQL, JDBC*
 - Real-time patient record management system
 - Optimized SQL queries for faster healthcare data retrieval
